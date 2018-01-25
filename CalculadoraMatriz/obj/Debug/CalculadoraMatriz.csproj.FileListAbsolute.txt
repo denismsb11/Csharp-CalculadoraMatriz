@@ -1,0 +1,7 @@
+c:\users\denis\source\repos\CalculadoraMatriz\CalculadoraMatriz\bin\Debug\CalculadoraMatriz.exe.config
+c:\users\denis\source\repos\CalculadoraMatriz\CalculadoraMatriz\bin\Debug\CalculadoraMatriz.exe
+c:\users\denis\source\repos\CalculadoraMatriz\CalculadoraMatriz\bin\Debug\CalculadoraMatriz.pdb
+c:\users\denis\source\repos\CalculadoraMatriz\CalculadoraMatriz\obj\Debug\CalculadoraMatriz.csprojResolveAssemblyReference.cache
+c:\users\denis\source\repos\CalculadoraMatriz\CalculadoraMatriz\obj\Debug\CalculadoraMatriz.csproj.CoreCompileInputs.cache
+c:\users\denis\source\repos\CalculadoraMatriz\CalculadoraMatriz\obj\Debug\CalculadoraMatriz.exe
+c:\users\denis\source\repos\CalculadoraMatriz\CalculadoraMatriz\obj\Debug\CalculadoraMatriz.pdb
